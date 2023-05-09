@@ -10,6 +10,7 @@ To get started with Docker on your Linux system, simply follow these steps:
 1. Clone this repository to your local machine using the `git clone` command.
 2. Navigate to the directory containing the scripts for your Linux distribution.
 3. Run the script for your Linux distribution using `sudo` or as the root user.
+4. Make the sh file executable by running chmod +x name.sh. Then, you can run the script with sudo ./name.sh
 
 The scripts will automatically install Docker and configure the Docker service. After running the script, you can start using Docker on your Linux system.
 

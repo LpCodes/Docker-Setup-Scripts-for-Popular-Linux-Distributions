@@ -29,6 +29,3 @@ If you would like to contribute to this repository, please fork the repository a
 
 
 
----
-
-You can customize this README file to include any additional information you want to provide about your Docker setup scripts. Be sure to provide clear instructions for users to follow and encourage contributions from others in the community.

@@ -26,3 +26,9 @@ If your Linux distribution is not listed here, the scripts may still work, but t
 ## Contributing 🤝
 
 If you would like to contribute to this repository, please fork the repository and submit a pull request with your changes. Before submitting a pull request, please ensure that your changes are well-documented and thoroughly tested.
+
+
+
+---
+
+You can customize this README file to include any additional information you want to provide about your Docker setup scripts. Be sure to provide clear instructions for users to follow and encourage contributions from others in the community.
